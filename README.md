@@ -19,7 +19,7 @@
 
 ## 📋 Sobre este repositório
 
-Este repositório reúne os entregáveis da **Aula 02** da disciplina de Estrutura de Dados e Algoritmos Avançados. As atividades abordam fundamentos de lógica de programação e construção de pseudocódigo utilizando a linguagem **Portugol/VisuAlg (sintaxe Delphi)**.
+Este repositório reúne os entregáveis da **Aula 02** da disciplina de Estrutura de Dados e Análise de Algoritmos. As atividades abordam fundamentos de lógica de programação e construção de pseudocódigo utilizando a linguagem **Portugol/VisuAlg (sintaxe Delphi)**.
 
 ---
 
