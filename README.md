@@ -1,4 +1,4 @@
-# 📚 EDAA — Estrutura de Dados e Algoritmos Avançados
+# 📚 EDAA — Estrutura de Dados e Análise de Algoritmos
 ## 🏫 UniBH 2026/1
 ### Aula 02 — Lógica e Pseudocódigo
 
