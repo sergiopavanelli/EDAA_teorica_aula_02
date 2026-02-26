@@ -4,7 +4,7 @@
 
 ### 1.1 Inversão de Nomes
 
-´´´Delphi
+```delphi
 Algoritmo "InverteNomes"
 Var
    primeiroNome, ultimoNome: caractere
@@ -16,3 +16,4 @@ Inicio
    Escreva(ultimoNome, ", ", primeiroNome)
 FimAlgoritmo
 ```
+
