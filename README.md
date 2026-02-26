@@ -6,8 +6,8 @@
 
 - Sérgio Pinton Pavanelli - RA 123220202  
 - Samuel Zappala Batista - RA 12411504  
-
-
+- Gabriel Victor Dornelas Ferreira Sathler - 12319216  
+- Elizabeth Stéphany Guimarães Miranda - RA 123220604  
 
 ---
 
