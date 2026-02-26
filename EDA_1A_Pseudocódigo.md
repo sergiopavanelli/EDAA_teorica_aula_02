@@ -1,6 +1,6 @@
 # UC: Estrutura de Dados e Análise de Algoritmos
 
-## Título: Prática nº 01A – Atividade – EDA_1A_Lista
+## Título: Prática nº 01A – Artigo e Pseudocódigo –  EDA_1A_Pseudocódigo
 ## Data: 26/02/2026
 
 ## Integrantes:
