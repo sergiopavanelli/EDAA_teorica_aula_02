@@ -1,6 +1,7 @@
 # 📚 EDAA — Estrutura de Dados e Análise de Algoritmos
 ## 🏫 UniBH 2026/1
 ### Aula 02 — Lógica e Pseudocódigo
+### Professor: Ricardo Antonio Bicalho Ribeiro
 
 ## Integrantes:
 
