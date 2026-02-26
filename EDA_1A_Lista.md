@@ -44,7 +44,7 @@ Algoritmo "CalculaIdade"
 Var
    anoNascimento, anoAtual, idade: inteiro
 Inicio
-   anoAtual <- 2026 // Conforme data da atividade [cite: 53]
+   anoAtual <- 2026 // Conforme data da atividade 
    Escreva("Digite o ano de nascimento: ")
    Leia(anoNascimento)
    idade <- anoAtual - anoNascimento

@@ -29,19 +29,19 @@
 ```Delphi
 Algoritmo "Construcao_Software_Truco"
 Inicio
-   // 1. Definição do Objetivo e Pontuação (12 pontos) [cite: 170]
+   // 1. Definição do Objetivo e Pontuação (12 pontos) 
    Definir_Objetivo(12, "Melhor de Três");
    
-   // 2. Modelagem da Distribuição e Manilha [cite: 172]
+   // 2. Modelagem da Distribuição e Manilha 
    Configurar_Mesa(3_cartas_por_jogador, definir_manilha);
    
-   // 3. Atribuição de Valores Não-Lineares (Tabela 1) [cite: 178, 181]
+   // 3. Atribuição de Valores Não-Lineares (Tabela 1) 
    Mapear_Valor_Cartas(); // Ex: 4=1, 3=10, Manilha Paus=14
    
-   // 4. Implementação da Lógica de Apostas (Truco/Retruco) [cite: 175, 176]
+   // 4. Implementação da Lógica de Apostas (Truco/Retruco) 
    Definir_Regras_Aposta(valor_inicial=1, incremento=3);
    
-   // 5. Modelagem do Comportamento dos Agentes [cite: 187, 188]
+   // 5. Modelagem do Comportamento dos Agentes 
    Criar_Agente_Juiz(); 
    Criar_Agentes_Jogadores(4);
 FimAlgoritmo
@@ -57,14 +57,14 @@ Var
    equipe_pediu_truco, primeira_rodada, possui_carta_maior: logico
    valor_medio_cartas: inteiro
 Inicio
-   // FASE 1: Decisão de Truco (Figura 1) [cite: 259]
+   // FASE 1: Decisão de Truco (Figura 1) 
    Se (Nao equipe_pediu_truco) Entao
       Se (blefar) OU (valor_medio_cartas > 10) Entao
          Pedir_Truco()
       FimSe
    FimSe
 
-   // FASE 2: Decisão de Jogar Carta (Figura 2) [cite: 313]
+   // FASE 2: Decisão de Jogar Carta (Figura 2) 
    Se (primeira_rodada) Entao
       Se (primeiro_a_jogar) Entao
          Jogar_Carta_Roleta() // Escolha aleatória inicial
