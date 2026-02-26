@@ -12,6 +12,7 @@
 - Ana Luiza Mattos de Carvalho - RA 124114111  
 - Júlia Starling Negrini Fudoli - RA 124222027  
 - Ana Clara Domingos Dias Silva - RA 12316965  
+- Miguel Pedro Pinheiro - RA 12315515  
 
 ### Tema:   Programação de Soluções Computacionais 
 ### Objetivo:  Introdução aos principais conceitos e motivação 
