@@ -2,6 +2,13 @@
 ## 🏫 UniBH 2026/1
 ### Aula 02 — Lógica e Pseudocódigo
 
+## Integrantes:
+
+- Sérgio Pinton Pavanelli - RA 123220202  
+- Samuel Zappala Batista - RA 12411504  
+
+
+
 ---
 
 ## 📋 Sobre este repositório
