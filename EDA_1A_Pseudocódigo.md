@@ -13,6 +13,7 @@
 - Júlia Starling Negrini Fudoli - RA 124222027  
 - Ana Clara Domingos Dias Silva - RA 12316965  
 - Miguel Pedro Pinheiro - RA 12315515  
+- Geovana Dias de Almeida - RA 123221311  
 
 ### Tema:   Programação de Soluções Computacionais 
 ### Objetivo:  Introdução aos principais conceitos e motivação 
@@ -78,4 +79,3 @@ Inicio
    FimSe
 FimAlgoritmo
 ```
-
