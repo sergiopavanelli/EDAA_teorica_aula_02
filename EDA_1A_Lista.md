@@ -1,4 +1,23 @@
-# Entregável 1: EDA_1A_Lista
+# UC: Estrutura de Dados e Análise de Algoritmos
+
+## Título: Prática nº 01A – Atividade – EDA_1A_Lista
+## Data: 26/02/2026
+
+## Integrantes:
+
+- Sérgio Pinton Pavanelli - RA 123220202  
+- Samuel Zappala Batista - RA 12411504  
+- Elizabeth Stéphany Guimarães Miranda - RA 123220604  
+- Gabriel Victor Dornelas Ferreira Sathler - 12319216  
+- Ana Luiza Mattos de Carvalho - RA 124114111  
+- Júlia Starling Negrini Fudoli - RA 124222027  
+- Ana Clara Domingos Dias Silva - RA 12316965  
+
+### Tema:   Programação de Soluções Computacionais 
+### Objetivo:  Introdução aos principais conceitos e motivação 
+### Roteiro: Formar grupos e desenvolver as atividades propostas. 
+
+---
 
 ## Atividade: Lista de exercícios de lógica e pseudocódigo.
 
