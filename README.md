@@ -7,11 +7,12 @@
 
 - Sérgio Pinton Pavanelli - RA 123220202  
 - Samuel Zappala Batista - RA 12411504  
-- Gabriel Victor Dornelas Ferreira Sathler - 12319216  
 - Elizabeth Stéphany Guimarães Miranda - RA 123220604  
+- Gabriel Victor Dornelas Ferreira Sathler - 12319216  
 - Ana Luiza Mattos de Carvalho - RA 124114111  
 - Júlia Starling Negrini Fudoli - RA 124222027  
-
+- Ana Clara Domingos Dias Silva - RA 12316965  
+  
 ---
 
 ## 📋 Sobre este repositório
